@@ -11,11 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.39.0",
-    "@types/node": "^20.9.0"
-  },
-
-"scripts": {
+  "@playwright/test": "^1.39.0",
+  "@types/node": "^20.9.0",
   "start": "react-scripts start",
   "build": "react-scripts build",
   "build:storybook": "node ./scripts/storybook.js",
